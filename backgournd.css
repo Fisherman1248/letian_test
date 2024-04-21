@@ -1,0 +1,9 @@
+body {
+    /* Define a linear gradient from top to bottom */
+    background: linear-gradient(to bottom, #90ee90 0%, #ffafcc 100%);
+    
+    /* Other styles for your body */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
